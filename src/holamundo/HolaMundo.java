@@ -19,6 +19,7 @@ public class HolaMundo {
         System.out.println("valor de a: " + c);
         
         System.out.println("hola mundo");
+        System.out.println(a+b+c);
     }
 
 }
